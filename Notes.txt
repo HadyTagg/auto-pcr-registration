@@ -1,0 +1,2 @@
+Build Command:
+py -3.7 -m PyInstaller --onefile --noconsole --icon "icon.ico"  "auto_pcr_registration.py"
